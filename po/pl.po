@@ -1,0 +1,187 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-10-15 12:34+0300\n"
+"PO-Revision-Date: 2023-10-28 23:08+0200\n"
+"Last-Translator: Mira Luna <mlu98@proton.me>\n"
+"Language-Team: \n"
+"Language: pl_PL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.4\n"
+
+#: data/io.github.lainsce.Khronos.metainfo.xml.in:7
+msgid "Log the time it took to do tasks"
+msgstr "Zapisz ile czasu zajęło zrobienie zadań"
+
+#: data/io.github.lainsce.Khronos.metainfo.xml.in:9
+msgid ""
+"Start logging any task's time to completion, with the ability to stop the "
+"timer at any moment, with notifications for longer task sessions."
+msgstr ""
+"Zacznij zapisywać czas potrzebny na ukończenie dowolnego zadania, z "
+"możliwością zatrzymania stopera w dowolnej chwili, z powiadomieniem dla "
+"dłuższych sesji zadaniowych."
+
+#: data/io.github.lainsce.Khronos.metainfo.xml.in:11
+msgid "Quit anytime with the shortcut Ctrl + Q"
+msgstr "Wyjdź kiedykolwiek skrótem klawiszowym Ctrl + Q"
+
+#: data/io.github.lainsce.Khronos.metainfo.xml.in:48
+msgid "Release: Day 2"
+msgstr "Wydanie: Dzień 2"
+
+#: data/io.github.lainsce.Khronos.metainfo.xml.in:50
+msgid "Changed: Overall refinements to match the updated looks of GNOME apps."
+msgstr ""
+"Zmieniono: Ogólne usprawnienia aby nadążać za zaktualizowanym wyglądem "
+"aplikacji GNOME."
+
+#: data/io.github.lainsce.Khronos.desktop.in:3
+msgid "Khronos"
+msgstr "Khronos"
+
+#: data/io.github.lainsce.Khronos.desktop.in:4
+msgid "Track each task time in a simple inobtrusive way"
+msgstr "Śledź czas każdego zadania prostą, dyskretną drogą"
+
+#: data/io.github.lainsce.Khronos.desktop.in:7
+msgid "Plot;Planning;Time Tracking;"
+msgstr "Fabuła;Planowanie;Pomiar czasu;"
+
+#: data/io.github.lainsce.Khronos.gschema.xml:5
+msgid "Migration Version"
+msgstr "Wersja migracji"
+
+#: data/io.github.lainsce.Khronos.gschema.xml:6
+msgid "The version of migration to use; Do not change."
+msgstr "Wersje migracji do użycia; Nie zmieniaj."
+
+#: data/io.github.lainsce.Khronos.gschema.xml:10
+msgid "Delay between notifications"
+msgstr "Opóźnienie między powiadomieniami"
+
+#: data/io.github.lainsce.Khronos.gschema.xml:11
+msgid "The delay between two notifications, default is 30min. in seconds."
+msgstr ""
+"Opóźnienie między dwoma powiadomieniami, domyślnie to 30 minut. W sekundach."
+
+#: data/ui/main_window.ui:6
+msgid "Export Logs as CSV…"
+msgstr "Eksportuj wpisy jako plik CSV..."
+
+#: data/ui/main_window.ui:10
+msgid "Import Logs from CSV…"
+msgstr "Importuj wpisy z pliku CSV..."
+
+#: data/ui/main_window.ui:16
+msgid "About Khronos"
+msgstr "O Khronos"
+
+#: data/ui/main_window.ui:58
+msgid "• events"
+msgstr "• zdarzenia"
+
+#: data/ui/main_window.ui:70
+msgid "Timer"
+msgstr "Stoper"
+
+#: data/ui/main_window.ui:94
+msgid "Log name…"
+msgstr "Nazwa wpisu..."
+
+#: data/ui/main_window.ui:102
+msgid "Tags (split by colons)…"
+msgstr "Etykiety (podzielone dwukropkami)..."
+
+#: data/ui/main_window.ui:144
+msgid "Logs"
+msgstr "Wpisy"
+
+#: data/ui/main_window.ui:195 src/MainWindow.vala:191 src/MainWindow.vala:205
+msgid "Starts the timer for a log"
+msgstr "Zacznij stoper dla wpisu"
+
+#: data/ui/main_window.ui:209
+msgid "Stops the timer for a log"
+msgstr "Zatrzymaj stoper dla wpisu"
+
+#: data/ui/main_window.ui:220
+msgid "Resets the timer"
+msgstr "Zresetuj stoper"
+
+#: data/ui/main_window.ui:231
+msgid "Adds a log to the list"
+msgstr "Dodaj wpisy do listy"
+
+#: data/ui/main_window.ui:248
+msgid "Cleans the logs list"
+msgstr "Wyczyść listę wpisów"
+
+#: src/MainWindow.vala:142 src/MainWindow.vala:235 src/MainWindow.vala:303
+#: src/MainWindow.vala:317
+msgid "events"
+msgstr "Zdarzenia"
+
+#: src/MainWindow.vala:157
+msgid "Pauses the timer for a log"
+msgstr "Zatrzymuje stoper dla wpisu"
+
+#: src/MainWindow.vala:359
+msgid "translator-credits"
+msgstr "Mira Luna <mlu98@proton.me>"
+
+#: src/MainWindow.vala:450
+msgid "Go rest for a while before continuing."
+msgstr "Odpocznij chwilę przed kontynuowaniem."
+
+#: src/MainWindow.vala:459
+msgid "Maybe grab a snack before continuing."
+msgstr "Może zjedz jakąś przekąskę przed kontynuowaniem."
+
+#: src/MainWindow.vala:468
+msgid "Perhaps go get some coffee or tea before continuing."
+msgstr "Może wypij jakąś kawę albo herbatę przed kontynuowaniem."
+
+#: src/MainWindow.vala:477
+msgid "That's a big task. Let's rest a bit before continuing."
+msgstr "To duże zadanie. Odpocznijmy chwilę przed kontynuowaniem."
+
+#: src/MainWindow.vala:486
+msgid "Amazing work! But please rest a bit before continuing."
+msgstr ""
+"Świetna robota! Proszę abyś jednak pamiętał o krótkim odpoczynku przed "
+"kontynuowaniem."
+
+#: src/Services/Dialog.vala:23 src/Services/Dialog.vala:44
+msgid "CSV files"
+msgstr "Pliki CSV"
+
+#: src/Services/Dialog.vala:27 src/Services/Dialog.vala:48
+msgid "All files"
+msgstr "Wszystkie pliki"
+
+#: src/ViewModels/LogViewModel.vala:50
+msgid "Clear Logs?"
+msgstr "Wyczyścić wpisy?"
+
+#: src/ViewModels/LogViewModel.vala:51
+msgid "Clearing means the logs here will be permanently lost with no recovery."
+msgstr ""
+"Czyszczenie oznacza permanentne usunięcie wpisów bez możliwości ich "
+"przywrócenia."
+
+#: src/ViewModels/LogViewModel.vala:52
+msgid "Cancel"
+msgstr "Anuluj"
+
+#: src/ViewModels/LogViewModel.vala:53
+msgid "Clear"
+msgstr "Wyczyść"
